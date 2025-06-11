@@ -1,5 +1,5 @@
 
-# Introduction to Prompt Engineering
+# 1. Introduction to Prompt Engineering
 
 Prompt engineering is the art and science of designing effective prompts that guide language models like GPT-4 to produce the most accurate, relevant, and useful responses.
 

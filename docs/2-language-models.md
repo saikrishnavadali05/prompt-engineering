@@ -1,4 +1,4 @@
-# Understanding Language Models
+# 2. Understanding Language Models
 
 Language models are at the core of modern Natural Language Processing (NLP). They power tools like chatbots, translators, text summarizers, and more. This document introduces the concept of language models, how they work, and their significance in the field of prompt engineering.
 
