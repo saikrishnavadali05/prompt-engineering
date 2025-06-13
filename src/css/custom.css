@@ -28,3 +28,33 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Keep sidebar background nearly white */
+.theme-doc-sidebar-container {
+  background-color: #fafafa;  /* very light gray */
+}
+
+/* Main page content background */
+main {
+  background-color: #FFF5EE; /* very light pink */
+  padding: 2rem;
+  border-radius: 8px;
+}
+
+/* Optional: make the whole center aligned and spaced */
+.main-wrapper {
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+}
+
+/* Constrain width of content */
+.theme-doc-markdown {
+  max-width: 900px;
+  margin: auto;
+}
+
+/* Right sidebar (Table of Contents) background */
+.theme-doc-toc-desktop {
+  background-color: #fdfdfd; /* Very light neutral background */
+}
