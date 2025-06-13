@@ -62,7 +62,7 @@ export default function Home() {
 
   return (
     <Layout title="Prompt Engineering" description="Craft better prompts for large language models">
-      <main style={{ padding: '2rem', maxWidth: '1000px', margin: '0 auto', fontFamily: 'sans-serif' }}>
+      <main style={{ padding: '2rem', maxWidth: '1400px', margin: '0 auto', fontFamily: 'sans-serif' }}>
         <h1 style={{ fontSize: '3rem', fontWeight: 'bold', textAlign: 'center', color: '#4B0082' }}>
           🎯 Prompt Engineering Guide
         </h1>
@@ -70,7 +70,12 @@ export default function Home() {
           Master the art of prompt design to unlock the full potential of language models like GPT.
         </p>
 
-        <div style={{ display: 'grid', gap: '2rem', gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))' }}>
+        <div style={{
+          display: 'grid',
+          gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))',
+          gap: '1.5rem',
+          justifyItems: 'stretch'
+        }}>
           {topics.map((section) => (
             <Link
               key={section.title}
