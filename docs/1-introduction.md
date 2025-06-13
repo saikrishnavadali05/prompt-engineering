@@ -1,3 +1,9 @@
+---
+id: 1-introduction
+title: Introduction
+slug: /1-introduction
+---
+
 
 # 1. Introduction to Prompt Engineering
 

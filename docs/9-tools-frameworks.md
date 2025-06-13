@@ -1,3 +1,9 @@
+---
+id: 9-tools-frameworks
+title: Tools & Frameworks
+slug: /9-tools-frameworks
+---
+
 # 9. Tools and Frameworks for Prompt Engineering
 
 Prompt Engineering goes far beyond writing instructions manually. A wide variety of **tools**, **platforms**, and **frameworks** can help you prototype, test, and optimize prompts efficiently.

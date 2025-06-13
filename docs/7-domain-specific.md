@@ -1,3 +1,9 @@
+---
+id: 7-domain-specific
+title: Domain-specific Prompting
+slug: /7-domain-specific
+---
+
 # 7. Prompt Engineering for Specific Domains
 
 Prompt engineering becomes even more powerful when it's **tailored to a specific domain**. Each field—like healthcare, finance, legal, education—has its own tone, terminology, and goals.

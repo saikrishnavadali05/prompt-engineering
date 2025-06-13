@@ -1,3 +1,9 @@
+---
+id: 4-prompt-patterns
+title: Prompt Patterns
+slug: /4-prompt-patterns
+---
+
 # 4. Prompt Patterns and Techniques
 
 Prompt patterns are reusable strategies or templates for crafting prompts that help steer the behavior of language models. By recognizing and applying common patterns, you can improve output consistency and model accuracy.

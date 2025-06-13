@@ -1,3 +1,10 @@
+---
+id: 5-advanced-prompting
+title: Advanced Prompting
+slug: /5-advanced-prompting
+---
+
+
 # 5. Advanced Prompting Techniques
 
 As you progress in prompt engineering, you’ll encounter more advanced strategies to refine outputs, improve model behavior, and unlock new capabilities. These techniques go beyond basic prompt formats and open doors to deeper model control and creative problem-solving.

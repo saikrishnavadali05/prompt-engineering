@@ -1,3 +1,10 @@
+---
+id: 6-evaluation-iteration
+title: Evaluation & Iteration
+slug: /6-evaluation-iteration
+---
+
+
 # 6. Evaluation and Iteration
 
 Prompt engineering is not a one-shot task — it's an iterative process. Evaluating and refining your prompts helps improve reliability, accuracy, and consistency of the language model’s responses.

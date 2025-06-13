@@ -1,3 +1,10 @@
+---
+id: 3-prompt-fundamentals
+title: Prompt Fundamentals
+slug: /3-prompt-fundamentals
+---
+
+
 # 3. Prompt Fundamentals
 
 Understanding the fundamentals of prompting is crucial for getting the best results from language models.

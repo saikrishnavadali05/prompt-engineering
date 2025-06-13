@@ -1,3 +1,10 @@
+---
+id: 8-model-specific-prompt
+title: Model-specific Prompting
+slug: /8-model-specific-prompt
+---
+
+
 # 8. Prompt Engineering for Different Models
 
 Not all language models behave the same. Their capabilities, limitations, and syntax expectations can vary based on their **architecture**, **training data**, and **interfaces**. Tailoring prompts to the specific model you're working with improves results dramatically.
